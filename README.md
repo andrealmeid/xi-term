@@ -13,7 +13,7 @@ The frontend assumes that you have installed the
 and is available in your PATH. The following should suffice:
 
 ```bash
-git clone https://github.com/google/xi-editor
+git clone https://github.com/xi-editor/xi-editor
 cd xi-editor/rust
 cargo install
 
